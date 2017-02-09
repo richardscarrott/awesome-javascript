@@ -530,6 +530,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector
+* [Bugz](https://github.com/richardscarrott/bugz) - Composable user agent detection using Ramda.
 
 ## Benchmark
 
